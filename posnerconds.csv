@@ -1,0 +1,11 @@
+cueOri,probeX,valid,descr
+0,300,1,right
+180,-300,1,left
+0,300,1,right
+180,-300,1,left
+0,300,1,right
+180,-300,1,left
+0,300,1,right
+180,-300,1,left
+180,300,0,conflict
+0,-300,0,conflict
